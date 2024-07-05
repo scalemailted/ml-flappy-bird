@@ -1,4 +1,4 @@
-# Machine Learning Flappy Bird
+# Machine Learning Flappy Bird JS
 
 Genetic Algorithm to train Flappy Bird to fly.
 
